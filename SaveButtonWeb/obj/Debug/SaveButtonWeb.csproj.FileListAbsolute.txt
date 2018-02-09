@@ -1,0 +1,9 @@
+C:\Code\dmc-office\SaveButtonWeb\bin\SaveButtonWeb.dll.config
+C:\Code\dmc-office\SaveButtonWeb\bin\SaveButtonWeb.dll
+C:\Code\dmc-office\SaveButtonWeb\bin\SaveButtonWeb.pdb
+C:\Code\dmc-office\SaveButtonWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Code\dmc-office\SaveButtonWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Code\dmc-office\SaveButtonWeb\obj\Debug\SaveButtonWeb.csprojResolveAssemblyReference.cache
+C:\Code\dmc-office\SaveButtonWeb\obj\Debug\SaveButtonWeb.csproj.CoreCompileInputs.cache
+C:\Code\dmc-office\SaveButtonWeb\obj\Debug\SaveButtonWeb.dll
+C:\Code\dmc-office\SaveButtonWeb\obj\Debug\SaveButtonWeb.pdb
